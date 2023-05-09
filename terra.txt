@@ -1,1 +1,0 @@
-Terraform: it is Nothing but a Infra as a code
