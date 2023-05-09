@@ -1,5 +1,5 @@
 # Terraform
-Tearraform (HashiCorp) , An End-to-End IaC preparation. 
+## Tearraform (HashiCorp) , An End-to-End IaC preparation.
 
 **Introduction to Terraform Workflow using Terraform Commands:**
 
